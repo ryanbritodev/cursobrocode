@@ -7,5 +7,7 @@ public class Ex006 {
         JOptionPane.showMessageDialog(null, "Olá " + nome + "!");
         int idade = Integer.parseInt(JOptionPane.showInputDialog("Qual sua idade?"));
         JOptionPane.showMessageDialog(null, "Você tem " + idade + " anos!");
+        double altura = Double.parseDouble(JOptionPane.showInputDialog("Qual a sua altura?"));
+        JOptionPane.showMessageDialog(null, "Você tem " + altura + "cm de altura!");
     }
 }
