@@ -1,2 +1,2 @@
 # cursobrocode
-Curso completo de Java gratuito oferecido pelo Bro Code.
+Curso completo de Java oferecido pelo canal Bro Code.
