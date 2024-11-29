@@ -18,7 +18,7 @@ public class Ex017 {
         produtos[0] = "Mouse";
         produtos[1] = "Teclado";
         produtos[2] = "Monitor";
-//        System.out.println(produtos[0] + "\n" + produtos[1] + "\n" + produtos[2]);
+        // System.out.println(produtos[0] + "\n" + produtos[1] + "\n" + produtos[2]);
 
         // Como iterar sobre um Array usando for (usando o método length para seu pegar seu tamanho):
         for(int i = 0; i < produtos.length;  i++){
