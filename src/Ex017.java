@@ -5,7 +5,7 @@ public class Ex017 {
         // Para transformar uma variável, devemos apenas adicionar os colchetes após sua declaração
         // Todos os itens devem ir dentro de colchetes
         String[] carros = {"Camaro", "Fusca", "Ferrari", "BMW"};
-        // IMPORTANTE!!! Todos os elementos do array devem ser de mesmo tipo, ou seja, num array de strings, sem números ou booleanos
+        // IMPORTANTE!!!
         // Para acessarmos cada elemento do array, devemos listar o index do elemento
         carros[0] = "Mustang";
         System.out.println(carros[0]);
