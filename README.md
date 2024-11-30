@@ -4,4 +4,6 @@
 </a>
 
 # Anotações ✍🏻
-[Link](https://www.notion.so/CURSO-JAVA-BRO-CODE-14607f0235ba80caa657ebb16af62e8f)
+<a href="https://www.notion.so/CURSO-JAVA-BRO-CODE-14607f0235ba80caa657ebb16af62e8f">
+  <img src="capaNotion.png"/>
+</a>
