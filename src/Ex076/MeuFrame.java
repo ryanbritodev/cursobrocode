@@ -12,6 +12,7 @@ public class MeuFrame extends JFrame {
 
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.add(painel);
+        this.setResizable(false);
         this.pack();
         this.setLocationRelativeTo(null);
         this.setVisible(true);
